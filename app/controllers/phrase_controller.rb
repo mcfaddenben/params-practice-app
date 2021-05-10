@@ -1,0 +1,2 @@
+class PhraseController < ApplicationController
+end
